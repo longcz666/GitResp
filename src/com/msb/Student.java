@@ -1,6 +1,6 @@
 package com.msb;
 
-public class Student {
+public class Student extends Person {
     private Integer age;
     private String name;
 
